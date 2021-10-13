@@ -1,3 +1,4 @@
+
 const arena=document.querySelector('.arenas');
 
 const player1={
@@ -33,3 +34,4 @@ function createPlayer(player,{hp,name,img}){
 }
  createPlayer('player1',player1);
  createPlayer('player2',player2);
+
