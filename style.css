@@ -147,7 +147,14 @@ body {
   height: 100%;
   width: 90%;
 }
-
+.player1 .life {
+  padding-right: 5px;
+  text-align: end;
+}
+.player2 .life {
+  padding-left: 5px;
+  text-align: start;
+}
 .name {
   position: absolute;
   font-family: "Mortal Kombat 3";
